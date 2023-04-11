@@ -1,4 +1,4 @@
-# TOOD APP CON REACT JS
+# TODO APP CON REACT JS
 
 ## Available Scripts
 
